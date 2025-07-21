@@ -14,4 +14,4 @@
    git clone https://github.com/your-username/cpu-process-monitor.git
 2. Запустите:
    ```bash
-   bash script.sh
+   bash cpu-pr-mon.sh
